@@ -1,6 +1,6 @@
 # Jigger - Swift - ProgUI (In House App)
 <p align="center">
-  <kbd><img height="400" src="https://img.youtube.com/vi/lFqH9SWs-I/0.jpg"></kbd>
+  <kbd><img height="400" src="https://img.youtube.com/vi/JlFqH9SWs-I/0.jpg"></kbd>
   </p>
   
 ## About
@@ -8,7 +8,7 @@ A product inventory app for a 5-star hotel (Britannia Hotel) in Norway. Instant 
 
 
 ## Video Mockup (Click Image to Watch)
-[![Trapspy - Promo](https://img.youtube.com/vi/lFqH9SWs-I/0.jpg)](https://www.youtube.com/watch?v=lFqH9SWs-I)
+[![Jigger-Demo](https://img.youtube.com/vi/JlFqH9SWs-I/0.jpg)](https://www.youtube.com/watch?v=JlFqH9SWs-I)
 
 ## Features
 The app has the following features
