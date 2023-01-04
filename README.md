@@ -30,7 +30,3 @@ My Portfolio: https://mhasan341.github.io
 
 ## Licence
 Feel free to fork, open PR or do whatever you wish with this repo at your OWN RISK. PERIOD.
-
-
-## Attribution
-The videos of the app are sole property of the app owner, used with permission.
