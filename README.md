@@ -4,7 +4,9 @@
   </p>
   
 ## About
-A product inventory app for a 5-star hotel (Britannia Hotel) in Norway. Instant searching and sorting functionality within thousands of items.
+A product inventory app for a 5-star hotel (Britannia Hotel) in Norway. 
+- Instant searching and sorting functionality within thousands of items. 
+- CRUD functionality.
 
 
 ## Video Mockup (Click Image to Watch)
