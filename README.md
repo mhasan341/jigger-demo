@@ -9,8 +9,12 @@ A product inventory app for a 5-star hotel (Britannia Hotel) in Norway.
 - CRUD functionality.
 
 
-## Video Mockup (Click Image to Watch)
+## Video Mockup
+# App (Click Image to Watch)
 [![Jigger-Demo](https://img.youtube.com/vi/JlFqH9SWs-I/0.jpg)](https://www.youtube.com/watch?v=JlFqH9SWs-I)
+
+# Admin Panel (Flutter + Getx) (Click Image to Watch)
+[![Jigger-Admin](https://img.youtube.com/vi/eb49npzVRtg/0.jpg)](https://www.youtube.com/watch?v=eb49npzVRtg)
 
 ## Features
 The app has the following features
